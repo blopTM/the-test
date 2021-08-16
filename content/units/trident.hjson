@@ -5,6 +5,7 @@ localizedName: Trident
 description: Yes
 health: 400
 armor: 5
+buildSpeed: 850%
 hitSize: 14
 speed: 1.8
 accel: 1
