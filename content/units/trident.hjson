@@ -14,7 +14,7 @@ itemcapacity: 50
 faceTarget: false
 lightRadius: 30
 lightColor: 8cc7f5
-controller: builderAI
+controller: repairAI
 abilities: [
    {
       type: EnergyFieldAbility
@@ -24,7 +24,7 @@ abilities: [
       maxTargets: 5
       shootSound: spark
       color: 84F491FF
-      healPercent: 1
+      healPercent: 2
       status: electrified
       statusDuration: 165
    }
