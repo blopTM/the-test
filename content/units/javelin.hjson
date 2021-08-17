@@ -2,7 +2,7 @@ type: flying
 name: javelin
 localizedName: javelin
 flying: true
-controller: FlyingAI
+controller: BuilderAI
 description: is yes
 isCounted: false
 health: 200
@@ -13,7 +13,7 @@ mineSpeed: 7.5
 mineTier: 2
 buildSpeed: 0.9
 drag: 0.15
-speed: 8
+speed: 7
 rotateSpeed: 21
 accel: 0.20
 itemCapacity: 50
