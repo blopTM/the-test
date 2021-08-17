@@ -3,7 +3,7 @@ name: Elite Factory
 description: constructs the Elites
 size: 3
 consumes: {
-  power: 128.4
+  power: 2.4
 }
 plans: [
   {
