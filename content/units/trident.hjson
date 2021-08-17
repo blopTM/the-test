@@ -30,6 +30,7 @@ weapons: [
       shootSound: none
       bullet: {
          type: BombBulletType
+         inaccuracy: 10
          damage: 40
          radius: 25
          width: 10
