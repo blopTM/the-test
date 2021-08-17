@@ -2,7 +2,7 @@ type: flying
 name: javelin
 localizedName: javelin
 flying: true
-controller: BuilderAI
+controller: FlyingAI
 description: is yes
 isCounted: false
 health: 200
