@@ -1,6 +1,7 @@
 type: flying
 flying: true
 controller: BuilderAI
+description: is yes
 isCounted: false
 health: 200
 armor: 2
