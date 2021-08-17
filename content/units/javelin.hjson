@@ -12,10 +12,10 @@ commandLimit: 7
 mineSpeed: 7.5
 mineTier: 2
 buildSpeed: 0.9
-drag: 1
+drag: 0.15
 speed: 8
 rotateSpeed: 21
-accel: 0.40
+accel: 0.20
 itemCapacity: 50
 weapons: [
    {
