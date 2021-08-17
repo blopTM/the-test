@@ -29,7 +29,7 @@ weapons: [
       shootSound: none
       bullet: {
          type: BombBulletType
-         damage: 27
+         damage: 40
          radius: 25
          width: 10
          height: 14
@@ -43,7 +43,7 @@ abilities: [
    {
       type: EnergyFieldAbility
       damage: 80
-      reload: 165
+      reload: 120
       range: 80
       maxTargets: 5
       shootSound: spark
