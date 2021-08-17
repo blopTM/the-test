@@ -16,6 +16,29 @@ faceTarget: false
 lightRadius: 30
 lightColor: 8cc7f5
 controller: repairAI
+weapons: [
+   {
+      minShootVelocity: 0.75
+      x: 3
+      shootY: 0
+      reload: 12
+      shootCone: 180
+      ejectEffect: none
+      inaccuracy: 15
+      ignoreRotation: true
+      shootSound: none
+      bullet: {
+         type: BombBulletType
+         damage: 27
+         radius: 25
+         width: 10
+         height: 14
+         hitEffect: flakExplosion
+         shootEffect: none
+         smokeEffect: none
+      }
+   }
+]
 abilities: [
    {
       type: EnergyFieldAbility
