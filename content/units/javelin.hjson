@@ -76,7 +76,7 @@ weapons: [
 abilities: [
  {
   type: MoveLightningAbility
-  damage: 95
+  damage: 11
   status: shock
   statusDuration: 170
   }
