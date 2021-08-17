@@ -1,4 +1,6 @@
 type: flying
+name: javelin
+localizedName: javelin
 flying: true
 controller: BuilderAI
 description: is yes
