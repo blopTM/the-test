@@ -1,7 +1,7 @@
 type: flying
 flying: true
-name: Trident
-localizedName: Trident
+name: trident
+localizedName: trident
 description: Yes
 health: 500
 buildSpeed: 8.5
