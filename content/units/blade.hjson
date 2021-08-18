@@ -7,3 +7,19 @@ armor: 3
 hitSize: 6
 controller: GroundAI
 canBoost: true
+weapons: [
+   {
+      name: blade-weapon-mount
+      top: true
+      mirror: true
+      rotate: true
+      alternate: true
+      reload: 30
+      x: 2.5
+      y: -2
+      shots: 1
+      inaccuracy: 1
+      shotDelay: 1
+      recoil: 1
+      bullet: {
+         type: BasicBulletType
