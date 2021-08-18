@@ -15,7 +15,7 @@ itemcapacity: 50
 faceTarget: false
 lightRadius: 30
 lightColor: 8cc7f5
-controller: repairAI
+controller: HugAI
 weapons: [
    {
       shots: 2
