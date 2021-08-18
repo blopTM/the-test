@@ -33,3 +33,6 @@ weapons: [
       shotDelay: 1
       recoil: 1
       bullet: {
+         type: BasicBulletType
+         speed: 130
+         lifeTime: 100
