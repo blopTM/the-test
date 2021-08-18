@@ -23,3 +23,6 @@ weapons: [
       recoil: 1
       bullet: {
          type: BasicBulletType
+      }
+   }
+]
