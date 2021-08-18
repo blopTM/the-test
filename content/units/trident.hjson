@@ -15,7 +15,8 @@ itemcapacity: 50
 faceTarget: false
 lightRadius: 30
 lightColor: 8cc7f5
-controller: RepairAI
+controller: FlyingAI
+circleTarget: true
 weapons: [
    {
       shots: 2
