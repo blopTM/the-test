@@ -36,4 +36,6 @@ weapons: [
          type: BasicBulletType
          speed: 130
          lifetime: 100
-              
+      }
+   }
+]
