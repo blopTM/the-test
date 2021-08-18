@@ -35,4 +35,5 @@ weapons: [
       bullet: {
          type: BasicBulletType
          speed: 130
-         lifeTime: 100
+         lifetime: 100
+              
