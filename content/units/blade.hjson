@@ -6,3 +6,4 @@ health: 450
 armor: 3
 hitSize: 6
 controller: GroundAI
+canBoost: true
