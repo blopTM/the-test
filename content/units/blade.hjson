@@ -23,8 +23,8 @@ weapons: [
       recoil: 1
       bullet: {
          type: BasicBulletType
-         speed: 1.2
-         lifetime: 10
+         speed: 3
+         lifetime: 50
       }
    }
 ]
