@@ -12,7 +12,7 @@ accel: 1
 drag: 0.075
 commandLimit: 6
 itemcapacity: 50
-faceTarget: false
+faceTarget: true
 lightRadius: 30
 lightColor: 8cc7f5
 controller: FlyingAI
