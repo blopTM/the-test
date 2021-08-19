@@ -35,7 +35,7 @@ weapons: [
       recoil: 1
       bullet: {
          type: BasicBulletType
-         bulletSprite: missle
+         bulletSprite: missile
          shootSound: missile
          width: 8
          heaight: 8
