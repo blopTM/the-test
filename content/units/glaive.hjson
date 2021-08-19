@@ -34,7 +34,7 @@ weapons: [
       recoil: 1
       bullet: {
          type: BasicBulletType
-         homingPower: 1
+         homingPower: 0.3
          status: Burning
          statusDuration: 90
          speed: 130
