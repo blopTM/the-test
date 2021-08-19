@@ -29,4 +29,22 @@ weapons: [
          lifetime: 50
       }
    }
+{
+   name: blade-weapon
+   top: true
+   mirror: true
+   rotate: false
+   reload: 25
+   x: 4.75
+   y: 0
+   shots: 1
+   inaccuracy: 1
+   shotDelay: 1.2
+   recoil: 1.4
+   bullet: {
+      type: BasicBulletType
+      speed: 3.4
+      lifetime: 55
+      }
+   }
 ]
