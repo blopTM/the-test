@@ -6,7 +6,7 @@ controller: FlyingAI
 circleTarget: true
 faceTarget: true
 description: is yes
-isCounted: false
+isCounted: true
 health: 200
 armor: 2
 hitSize: 6.75
