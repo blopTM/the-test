@@ -37,7 +37,7 @@ weapons: [
          width: 5
          height: 8
          homingPower: 0.3
-         status: Burning
+         status: burning
          statusDuration: 90
          speed: 130
          lifetime: 100
