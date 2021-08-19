@@ -25,6 +25,7 @@ weapons: [
       recoil: 1
       bullet: {
          type: BasicBulletType
+         damage: 12
          speed: 3
          lifetime: 50
       }
@@ -43,6 +44,9 @@ weapons: [
    recoil: 1.4
    bullet: {
       type: BasicBulletType
+      damage: 30
+      width: 3
+      length: 5
       speed: 3.4
       lifetime: 55
       }
