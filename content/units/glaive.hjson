@@ -34,6 +34,8 @@ weapons: [
       recoil: 1
       bullet: {
          type: BasicBulletType
+         frontColor: FFA665FF
+         backColor: E7885CFF
          homingPower: 0.3
          status: burning
          statusDuration: 90
