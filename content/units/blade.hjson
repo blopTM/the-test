@@ -2,6 +2,8 @@ type: mech
 name: blade
 localizedName: blade
 description: the
+isCounted: true
+itemCapacity: 50
 health: 450
 armor: 3
 hitSize: 6
