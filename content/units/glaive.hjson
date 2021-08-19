@@ -20,9 +20,9 @@ accel: 0.20
 itemCapacity: 60
 weapons: [
    {
-      name: none
+      name: glaive-weapon
       top: false
-      mirror: false
+      mirror: true
       rotate: false
       alternate: true
       reload: 40
@@ -34,6 +34,7 @@ weapons: [
       recoil: 1
       bullet: {
          type: BasicBulletType
+         homingPower: 1
          status: Burning
          statusDuration: 90
          speed: 130
