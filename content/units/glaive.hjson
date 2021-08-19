@@ -34,6 +34,8 @@ weapons: [
       recoil: 1
       bullet: {
          type: BasicBulletType
+         status: Burning
+         statusDuration: 90
          speed: 130
          lifetime: 100
       }
