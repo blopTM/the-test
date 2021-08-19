@@ -38,7 +38,7 @@ weapons: [
          bulletSprite: missile
          shootSound: missile
          width: 8
-         heaight: 8
+         height: 8
          damage: 7
          collidesTiles: true
          frontColor: 88A4FFFF
