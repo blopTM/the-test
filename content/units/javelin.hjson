@@ -4,6 +4,7 @@ localizedName: javelin
 flying: true
 controller: FlyingAI
 circleTarget: true
+faceTarget: true
 description: is yes
 isCounted: false
 health: 200
