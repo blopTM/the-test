@@ -37,8 +37,8 @@ weapons: [
          homingPower: 0.3
          status: burning
          statusDuration: 90
-         speed: 130
-         lifetime: 100
+         speed: 10
+         lifetime: 50
       }
    }
 ]
