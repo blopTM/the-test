@@ -1,5 +1,6 @@
 type: flying
 flying: true
+isCounted: true
 name: trident
 localizedName: trident
 description: Yes
