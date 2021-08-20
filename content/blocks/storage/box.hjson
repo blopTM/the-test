@@ -1,4 +1,5 @@
 type: StorageBlock
+name: box
 size: 1
 itemCapacity: 80
 health: 100
