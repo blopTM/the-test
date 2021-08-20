@@ -25,9 +25,9 @@ consumes: {
   }
    liquid: {
       liquid: water
-      amount: 20
+      amount: 0.8
   }
 }
-outputLiquid: cryofluid/20
+outputLiquid: cryofluid/0.8
 craftTime: 60
 category: crafting
