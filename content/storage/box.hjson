@@ -1,1 +1,9 @@
+type: StorageBlock
+size: 2
+itemCapacity: 80
+health: 100
+requirements: [
+   copper/300
+   lead/100
+]
 
