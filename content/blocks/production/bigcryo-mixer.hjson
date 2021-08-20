@@ -25,7 +25,7 @@ consumes: {
       amount: 20
   }
 }
-outputItem: cryofluid/20
+outputLiquid: cryofluid/20
 craftEffecr: melting
 craftTime: 60
 category: crafting
