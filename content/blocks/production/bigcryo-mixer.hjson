@@ -9,13 +9,13 @@ hasPower: true
 itemCapacity: 30
 liquidCapacity: 20
 requirements: [
-  copper/300
+  lead/300
   metaglass/120
   titanium/180
   plastanium/40
 ]
 consumes: {
-     power: 1.5
+     power: 2.0
      items: {
         items: [
         titanium/3
@@ -27,6 +27,5 @@ consumes: {
   }
 }
 outputLiquid: cryofluid/20
-craftEffecr: melting
 craftTime: 60
 category: crafting
