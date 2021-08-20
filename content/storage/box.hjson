@@ -1,5 +1,5 @@
 type: StorageBlock
-size: 2
+size: 1
 itemCapacity: 80
 health: 100
 requirements: [
