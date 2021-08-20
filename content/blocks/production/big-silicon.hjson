@@ -16,11 +16,15 @@ requirements: [
 consumes: {
      power: 1.8
      items: {
-      items: [
-     sand/10
-     copper/10
-     pyratite/2
+        items: [
+        sand/10
+        copper/10
+        pyratite/2
     ]
+  }
+   liquid: {
+      liquid: oil
+      amount: 1
   }
 }
 outputItem: silicon/18
