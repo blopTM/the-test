@@ -1,4 +1,6 @@
 type: LiquidConverter
+drawer: DrawMixer
+solid: true
 name: big cryofluid mixer
 description: upraded cryofluid mixer.
 health: 345
