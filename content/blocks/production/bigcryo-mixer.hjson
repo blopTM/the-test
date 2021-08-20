@@ -1,3 +1,4 @@
+type: LiquidConverter
 name: big cryofluid mixer
 description: upraded cryofluid mixer.
 health: 345
