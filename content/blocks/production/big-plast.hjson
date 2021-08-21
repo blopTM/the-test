@@ -10,3 +10,18 @@ itemCapacity: 50
 requirements: [
    copper/1
 ]
+consumes: {
+     power: 1.8
+     items: {
+        items: [
+        titanium/3
+    ]
+  }
+   liquid: {
+      liquid: oil
+      amount: 1
+  }
+}
+outputItem: plastanium/2
+craftTime: 80
+category: crafting
