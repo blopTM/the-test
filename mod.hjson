@@ -1,8 +1,8 @@
 
 name: "test"
-displayName: "just a test"
+displayName: "blop supremacy"
 author: "blopTM"
-description: "sus"
+description: "thanks to WMF industries, Antlrr and ereHyddeS for help"
 version: "1.0"
 minGameVersion: "130"
 dependencies: [ ]
