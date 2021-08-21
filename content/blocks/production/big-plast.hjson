@@ -8,5 +8,5 @@ hasLiquid: true
 hasPower: true
 itemCapacity: 50
 requirements: [
-   titanium/3
+   copper/1
 ]
