@@ -7,6 +7,7 @@ hasItems: true
 hasLiquid: true
 hasPower: true
 itemCapacity: 20
+liquidCapacity: 5
 requirements: [
    copper/1
 ]
@@ -19,5 +20,6 @@ consumes: {
    }
 }
 outputItem: coal/2
-craftTime: 80
+craftTime: 20
+craftEffect: coalSmeltsmoke
 category: crafting
