@@ -15,7 +15,7 @@ consumes: {
      power: 1.0
      liquid: {
         liquid: oil
-        amount: 60
+        amount: 0.2
    }
 }
 outputItem: coal/2
