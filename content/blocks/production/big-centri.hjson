@@ -1,1 +1,24 @@
-
+type: GenericCrafter
+name: big centrifuge
+description: upraded coal centrifuge.
+health: 300
+size: 3
+hasItems: true
+hasLiquid: true
+hasPower: true
+itemCapacity: 20
+requirements: [
+   copper/1
+]
+consumes: {
+     power: 1.0
+     items: {
+        liquid: [
+           liquid: oil
+           amount: 1
+      ]
+   }
+}
+outputItem: coal/2
+craftTime: 80
+category: crafting
