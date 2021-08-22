@@ -16,8 +16,7 @@ consumes: {
      liquid: [
         liquid: oil
         amount: 1
-      ]
-   }
+   ]
 }
 outputItem: coal/2
 craftTime: 20
