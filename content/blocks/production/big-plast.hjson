@@ -6,6 +6,7 @@ size: 3
 hasItems: true
 hasLiquid: true
 hasPower: true
+drawer: DrawGlow
 itemCapacity: 50
 requirements: [
    copper/1
