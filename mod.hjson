@@ -1,8 +1,7 @@
-
 name: "test"
 displayName: "blop supremacy"
 author: "blopTM"
-description: "thanks to WMF industries, Antlrr and ereHyddeS for help"
+description: "Adds a comically small and a comically large existing blocks and some stuff. thanks to WMF industries, Antlrr and ereHyddeS for help"
 version: "1.0"
 minGameVersion: "130"
 dependencies: [ ]
