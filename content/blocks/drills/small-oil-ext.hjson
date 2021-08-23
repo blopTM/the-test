@@ -27,3 +27,4 @@ consumes: {
     }
 results: oil
 pumpAmount: 0.1
+category: production
