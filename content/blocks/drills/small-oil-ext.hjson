@@ -8,7 +8,12 @@ pumpAmount: 0.25
 size: 2
 liquidCapacity: 30
 ItemUseTime: 50
-requirements:
+requirements: [
+   copper/100
+   graphite/50
+   silicon/75
+   thorium/25
+]
 consumes: {
    power: 3.25
    items: {
