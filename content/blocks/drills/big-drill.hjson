@@ -1,1 +1,23 @@
-
+type: Drill
+name: big drill
+hasItems: true
+hasliquid: true
+itemCapacity: 20
+liquidCapacity: 1.7
+liquidBoostIntensity: 1.6
+description: op drill.
+tier: 5
+drillTime: 200
+size: 1
+requirements: [
+   copper/15
+]
+consumes: {
+   liquid: {
+   liquid: cryofluid
+   amount: 0.1
+   optional: true
+   booster: true
+   }
+}
+category: production
