@@ -12,5 +12,8 @@ size: 1
 requirements: [
    copper/15
 ]
+consumes: {
+   liquid: water/0.2
+}
 alwaysUnlocked: true
 category: production
