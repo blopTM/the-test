@@ -6,13 +6,13 @@ hasItems: true
 hasliquid: true
 itemCapacity: 20
 liquidCapacity: 2
-liquidBoostIntensity: 1.2
+liquidBoostIntensity: 2.0
 tier: 5
 drillTime: 250
 size: 5
 requirements: [
-   copper/80
-   lead/100
+   copper/100
+   lead/150
    silicon/120
    thorium/70
    plastanium/80
