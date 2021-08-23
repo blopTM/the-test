@@ -1,4 +1,6 @@
 type: fracker
+name: small oil extractor
+description: yes
 updateEffect: pulverize
 liquidCapacity: 50
 updateEffectChance: 0.05
@@ -6,6 +8,7 @@ pumpAmount: 0.25
 size: 2
 liquidCapacity: 30
 ItemUseTime: 50
+requirements:
 consumes: {
    power: 3.25
    items: {
