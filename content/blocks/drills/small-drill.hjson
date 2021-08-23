@@ -1,5 +1,10 @@
 type: Drill
 name: small drill
+hasItems: true
+hasliquids: true
+itemCapacity: 5
+liquidCapacity: 0.4
+liquidBoostIntensity: 0.2
 description: this drill wants to grow up and become an airblast drill with his friend water extractor.
 tier: 1
 drillTime: 800
