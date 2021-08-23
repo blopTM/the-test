@@ -1,7 +1,7 @@
 type: Drill
 name: small drill
 hasItems: true
-hasliquids: true
+hasliquid: true
 itemCapacity: 5
 liquidCapacity: 0.4
 liquidBoostIntensity: 0.2
