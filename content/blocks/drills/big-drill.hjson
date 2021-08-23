@@ -18,6 +18,7 @@ requirements: [
    plastanium/80
 ]
 consumes: {
+   power: 3.0
    liquid: {
    liquid: cryofluid
    amount: 0.1
