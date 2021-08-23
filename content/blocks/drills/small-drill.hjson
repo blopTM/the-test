@@ -7,7 +7,7 @@ liquidCapacity: 1
 liquidBoostIntensity: 1.6
 description: this drill wants to grow up and become an airblast drill with his friend water extractor.
 tier: 1
-drillTime: 100
+drillTime: 200
 size: 1
 requirements: [
    copper/15
