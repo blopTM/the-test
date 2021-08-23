@@ -21,8 +21,7 @@ consumes: {
        ]
     }
     liquid: {
-       liquid: water
-       amount: 0.11
+       liquid: water/0.11
        }
     }
 results: oil
