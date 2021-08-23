@@ -3,7 +3,7 @@ name: small drill
 hasItems: true
 hasliquid: true
 itemCapacity: 5
-liquidCapacity: 1
+liquidCapacity: 1.2
 liquidBoostIntensity: 1.6
 description: this drill wants to grow up and become an airblast drill with his friend water extractor.
 tier: 1
@@ -13,7 +13,12 @@ requirements: [
    copper/15
 ]
 consumes: {
-   liquid: water/0.2
+   liquid: {
+   liquid: water
+   amount: 0.2
+   optional: true
+   booster: true
+   }
 }
 alwaysUnlocked: true
 category: production
