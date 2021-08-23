@@ -14,7 +14,7 @@ requirements: [
    thorium/25
 ]
 consumes: {
-   power: 0.60
+   power: 1
    items: {
       items: [ 
          sand/2
