@@ -75,7 +75,7 @@ abilities: [
       sizeTo: 6
       length: 0.01
       lifetime: 15
-      region: resized-blocks-javelin-effect
+      region: the-test-javelin-effect
       colorFrom: fffffff25
       colorTo: ffffff00
     }
