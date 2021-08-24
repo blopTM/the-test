@@ -34,7 +34,7 @@ weapons: [
       shotDelay: 1
       recoil: 1
       bullet: {
-         type: missileBulletType
+         type: MissileBulletType
          bulletSprite: missile
          shootSound: missile
          inaccuracy: 10
