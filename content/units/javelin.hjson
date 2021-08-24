@@ -22,6 +22,8 @@ itemCapacity: 50
 weapons: [
    {
       name: missile-launcher
+      shootSound: missile
+      bulletSprite: missile
       top: false
       mirror: true
       rotate: false
@@ -35,8 +37,6 @@ weapons: [
       recoil: 1
       bullet: {
          type: MissileBulletType
-         bulletSprite: missile
-         shootSound: missile
          inaccuracy: 100
          width: 8
          length: 15
