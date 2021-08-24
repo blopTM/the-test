@@ -37,7 +37,7 @@ weapons: [
          type: missileBulletType
          bulletSprite: missile
          shootSound: missile
-         accuracy: 10
+         inaccuracy: 10
          width: 8
          length: 8
          damage: 7
