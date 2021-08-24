@@ -37,9 +37,9 @@ weapons: [
          type: MissileBulletType
          bulletSprite: missile
          shootSound: missile
-         inaccuracy: 30
+         inaccuracy: 100
          width: 8
-         length: 8
+         length: 15
          damage: 7
          collidesTiles: true
          frontColor: 88A4FFFF
