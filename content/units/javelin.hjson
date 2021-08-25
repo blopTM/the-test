@@ -47,9 +47,6 @@ weapons: [
          buildingDamageMultiplier: 0.5
          speed: 4
          lifetime: 105
-         trailEffect: artilleryTrail
-         trailLength: 27
-         trailWidth: 3.5
          trailColor: 5757C1FF
          trailInterp: slope
          trailChance: 0.2
