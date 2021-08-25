@@ -1,2 +1,2 @@
-type: Floor
-blendGroup: grass
+type: prop
+variants: 3
