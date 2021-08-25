@@ -38,8 +38,10 @@ weapons: [
       bullet: {
          type: MissileBulletType
          inaccuracy: 100
-         width: 8
-         length: 15
+         width: 5
+         length: 10
+         weaveScale: 3
+         weaveMag: 3
          damage: 7
          collidesTiles: true
          frontColor: 88A4FFFF
@@ -50,6 +52,8 @@ weapons: [
          trailColor: 5757C1FF
          trailInterp: slope
          trailChance: 0.2
+         hitEffect: blastExplosion
+         despawnEffect: blastExplosion
          splashDamageRadius: 56
          splashDamage: 5
          homingPower: 0.07
