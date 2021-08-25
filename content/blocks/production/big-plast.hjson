@@ -26,3 +26,4 @@ consumes: {
 outputItem: plastanium/2
 craftTime: 80
 category: crafting
+research: plastanium-compressor
