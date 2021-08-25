@@ -22,3 +22,4 @@ outputItem: coal/2
 craftTime: 20
 craftEffect: coalSmeltsmoke
 category: crafting
+research: coal-centrifuge
