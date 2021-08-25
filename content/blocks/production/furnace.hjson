@@ -24,5 +24,6 @@ consumes: {
 }
 outputItem: metaglass/10
 craftTime: 60
-craftEffect: melting
+craftEffect: smelting
 category: crafting
+research: kiln
