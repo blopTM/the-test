@@ -5,7 +5,7 @@ flying: true
 controller: FlyingAI
 circleTarget: true
 faceTarget: true
-description: is yes
+description: the trail effect is mady by bluewolf, go check out exotic mod
 isCounted: true
 health: 200
 armor: 2
