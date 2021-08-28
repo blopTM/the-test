@@ -30,7 +30,7 @@ weapons: [
       alternate: true
       reload: 40
       x: 10
-      y: -10
+      y: 10
       shots: 4
       inaccuracy: 1
       shotDelay: 1
