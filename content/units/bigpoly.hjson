@@ -45,7 +45,7 @@ weapons: [
          damage: 7
          collidesTiles: true
          frontColor: 84F491FF
-         backColor: 5757C1FF
+         backColor: 62AE7FFF
          buildingDamageMultiplier: 0.5
          speed: 4
          lifetime: 105
@@ -86,7 +86,7 @@ weapons: [
          damage: 7
          collidesTiles: true
          frontColor: 84F491FF
-         backColor: 5757C1FF
+         backColor: 62AE7FFF
          buildingDamageMultiplier: 0.5
          speed: 4
          lifetime: 105
