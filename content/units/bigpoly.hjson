@@ -9,7 +9,7 @@ description: big
 isCounted: false
 health: 3000
 armor: 40
-hitSize: 20
+hitSize: 10
 commandLimit: 4
 mineSpeed: 10
 mineTier: 3
