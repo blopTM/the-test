@@ -1,1 +1,57 @@
-
+type: ItemTurret
+name: disperse
+description: scatters bullets to air enemies
+size: 3
+health: 650
+range: 140
+targetGround: true
+targetAir: true
+shots: 2
+spread: 10
+alternate: true
+ammoTypes: {
+  scrap: {
+    damage: 8
+    speed: 3
+    lifetime: 45
+    reloadMultiplier: 0.65
+    ammoMultiplier: 3
+    splashDamage: 5
+    splashDamageRadius: 12
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    hitEffect: flakExplosion
+  }
+  lead: {
+    damage: 15
+    speed: 2.5
+    lifetime: 50
+    reloadMultiplier: 0.45
+    ammoMultiplier: 5
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+  }
+  metaglass: {
+    damage: 19
+    speed: 3.2
+    lifetime: 45
+    reloadMultiplier: 0.60
+    ammoMultiplier: 4
+    height: 8
+    width: 6
+    shootEffect: shootSmall
+    smokeEffect: shootSmallSmoke
+    homingPower: 0.1
+  }
+}
+requirements: [
+  copper/105
+  lead/100
+  graphite/40
+]
+category: turret
+research: scatter
