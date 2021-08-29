@@ -24,7 +24,7 @@ consumes: {
   }
    liquid: {
       liquid: oil
-      amount: 1
+      amount: 0.25
   }
 }
 outputItem: silicon/18
