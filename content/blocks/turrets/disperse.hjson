@@ -6,14 +6,14 @@ health: 650
 range: 140
 targetGround: true
 targetAir: true
-shots: 2
-spread: 10
+shots: 5
+spread: 20
 alternate: true
 ammoTypes: {
   scrap: {
     damage: 8
-    speed: 3
-    lifetime: 45
+    speed: 5
+    lifetime: 100
     reloadMultiplier: 0.65
     ammoMultiplier: 3
     splashDamage: 5
@@ -26,26 +26,27 @@ ammoTypes: {
   }
   lead: {
     damage: 15
-    speed: 2.5
-    lifetime: 50
+    speed: 4.9
+    lifetime: 95
     reloadMultiplier: 0.45
     ammoMultiplier: 5
-    height: 8
-    width: 6
+    height: 10
+    width: 8
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
+    hitEffect: flakExplosion
   }
   metaglass: {
     damage: 19
-    speed: 3.2
-    lifetime: 45
+    speed: 4.8
+    lifetime: 95
     reloadMultiplier: 0.60
     ammoMultiplier: 4
-    height: 8
-    width: 6
+    height: 12
+    width: 10
     shootEffect: shootSmall
     smokeEffect: shootSmallSmoke
-    homingPower: 0.1
+    hitEffect: flakExplosion
   }
 }
 requirements: [
