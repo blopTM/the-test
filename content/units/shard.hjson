@@ -1,1 +1,44 @@
-
+type: flying
+flying: true
+isCounted: true
+name: shard
+description: frag core unit
+health: 80
+buildSpeed: 2
+armor: 1
+hitSize: 10
+speed: 1.5
+accel: 0.7
+drag: 0.09
+commandLimit: 3
+itemcapacity: 15
+faceTarget: true
+lightRadius: 20
+lightColor: 8cc7f5
+controller: BuilderAI
+circleTarget: false
+weapons: [
+   {
+      shots: 1
+      minShootVelocity: 0.75
+      x: 0
+      shootY: 0
+      reload: 12
+      shootCone: 180
+      ejectEffect: none
+      inaccuracy: 15
+      ignoreRotation: false
+      shootSound: none
+      bullet: {
+         type: BasicBulletType
+         inaccuracy: 10
+         damage: 10
+         radius: 10
+         width: 10
+         length: 14
+         hitEffect: flakExplosion
+         shootEffect: none
+         smokeEffect: none
+      }
+   }
+]
