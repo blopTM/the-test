@@ -7,7 +7,7 @@ range: 140
 targetGround: false
 targetAir: true
 shots: 5
-spread: 10
+spread: 8
 rotateSpeed: 15
 reloadTime: 18
 burstSpacing: 10
