@@ -37,7 +37,7 @@ weapons: [
          width: 10
          length: 14
          hitEffect: flakExplosion
-         shootEffect: none
+         shootEffect: shootSmall
          smokeEffect: none
       }
    }
