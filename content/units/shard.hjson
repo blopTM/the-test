@@ -20,18 +20,17 @@ circleTarget: false
 weapons: [
    {
       shots: 1
-      minShootVelocity: 0.75
       x: 0
       shootY: 0
       reload: 12
       shootCone: 180
       ejectEffect: none
       inaccuracy: 15
-      ignoreRotation: false
-      shootSound: none
+      ignoreRotation: true
+      shootSound: shoot
       bullet: {
          type: BasicBulletType
-         speed: 10
+         speed: 3
          inaccuracy: 10
          damage: 10
          radius: 10
