@@ -31,11 +31,12 @@ weapons: [
       shootSound: none
       bullet: {
          type: BasicBulletType
+         speed: 10
          inaccuracy: 10
          damage: 10
          radius: 10
-         width: 10
-         length: 14
+         width: 6
+         length: 8
          hitEffect: flakExplosion
          shootEffect: shootSmall
          smokeEffect: none
