@@ -55,6 +55,16 @@ ammoTypes: {
     shootSound: shootSnap
     smokeEffect: shootSmallSmoke
     hitEffect: flakExplosion
+    fragBullet: {
+            type: BasicBulletType
+            bulletSprite: shell
+            damage: 5
+            lifetime: 30
+            speed: 2
+            collidesTiles: false
+            splashDamageRadius: 32
+            splashDamage: 5
+    }
   }
 }
 requirements: [
