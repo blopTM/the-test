@@ -9,7 +9,11 @@ hasPower: true
 drawer: DrawGlow
 itemCapacity: 50
 requirements: [
-   copper/1
+   copper/100
+   lead/80
+   graphite/60
+   titanium/90
+   plastanium/30
 ]
 consumes: {
      power: 1.8
@@ -20,7 +24,7 @@ consumes: {
   }
    liquid: {
       liquid: oil
-      amount: 1
+      amount: 0.6
   }
 }
 outputItem: plastanium/2
