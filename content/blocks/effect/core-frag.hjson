@@ -3,8 +3,8 @@ health: 2000
 itemCapacity: 1000
 size: 2
 category: effect
-unitType: nothing-yet
-unitCapModifier: 8
+unitType: shard
+unitCapModifier: 6
 thrusterLength: 0
 requirements: [
   copper/2000
