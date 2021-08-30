@@ -2,22 +2,22 @@ type: ItemTurret
 name: disperse
 description: scatters bullets to air enemies
 size: 3
-health: 650
-range: 200
+health: 700
+range: 260
 targetGround: false
 targetAir: true
 shots: 5
 spread: 20
 rotateSpeed: 15
 reloadTime: 18
-burstSpacing: 10
+burstSpacing: 30
 recoilAmount: 5
 alternate: true
-inaccuracy: 19
+inaccuracy: 16
 ammoTypes: {
   scrap: {
     damage: 8
-    speed: 8
+    speed: 6
     lifetime: 40
     reloadMultiplier: 0.50
     ammoMultiplier: 3
@@ -31,7 +31,7 @@ ammoTypes: {
     hitEffect: flakExplosion
   }
   lead: {
-    damage: 15
+    damage: 9
     speed: 7.5
     lifetime: 45
     reloadMultiplier: 0.40
@@ -44,7 +44,7 @@ ammoTypes: {
     hitEffect: flakExplosion
   }
   metaglass: {
-    damage: 19
+    damage: 10
     speed: 7.8
     lifetime: 45
     reloadMultiplier: 0.45
@@ -59,8 +59,8 @@ ammoTypes: {
             type: BasicBulletType
             bulletSprite: shell
             damage: 5
-            lifetime: 30
-            speed: 2
+            lifetime: 15
+            speed: 3.5
             collidesTiles: false
             splashDamageRadius: 32
             splashDamage: 5
