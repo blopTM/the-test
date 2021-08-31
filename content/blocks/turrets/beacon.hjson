@@ -10,7 +10,7 @@ consumes: {
 shootType: {
    type: LaserBulletType
    damage: 80
-   lightningLength: 20
+   shootSound: laser
 }
 requirements: [
    copper/100
