@@ -3,14 +3,16 @@ health: 720
 reloadTime: 50
 shootCone: 0
 size: 3
-shots: 2
+shots: 1
 consumes: {
    power: 1.0
 }
 shootType: {
    type: LaserBulletType
-   damage: 80
-   shootSound: laser
+   length: 88
+   width: 16
+   damage: 40
+   colors: [7382f040, 7382f0, ffffff]
 }
 requirements: [
    copper/100
