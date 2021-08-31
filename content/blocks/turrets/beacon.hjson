@@ -12,7 +12,6 @@ shootType: {
    length: 88
    width: 16
    damage: 40
-   colors: [7382f040, 7382f0, ffffff]
 }
 requirements: [
    copper/100
