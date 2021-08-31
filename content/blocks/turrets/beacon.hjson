@@ -5,7 +5,7 @@ shootCone: 0
 size: 3
 shots: 2
 consumes: {
-   power: 54
+   power: 1.0
 }
 shootType: {
    type: LaserBulletType
