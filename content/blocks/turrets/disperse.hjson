@@ -17,7 +17,7 @@ inaccuracy: 16
 ammoTypes: {
   scrap: {
     damage: 8
-    speed: 6
+    speed: 5.5
     lifetime: 40
     reloadMultiplier: 0.50
     ammoMultiplier: 3
@@ -32,7 +32,7 @@ ammoTypes: {
   }
   lead: {
     damage: 9
-    speed: 7.5
+    speed: 6
     lifetime: 45
     reloadMultiplier: 0.40
     ammoMultiplier: 5
@@ -45,7 +45,7 @@ ammoTypes: {
   }
   metaglass: {
     damage: 10
-    speed: 7.8
+    speed: 6.4
     lifetime: 45
     reloadMultiplier: 0.45
     ammoMultiplier: 4
