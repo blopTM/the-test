@@ -1,6 +1,6 @@
 type: flying
-name: javelin
-localizedName: javelin
+name: Javelin
+localizedName: Javelin
 flying: true
 controller: FlyingAI
 circleTarget: true
