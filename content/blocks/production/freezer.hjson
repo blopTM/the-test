@@ -24,4 +24,5 @@ consumes: {
 outputItem: ice/2
 craftTime: 80
 category: crafting
+craftEffect: ParticleEffect
 research: water
