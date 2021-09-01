@@ -8,6 +8,7 @@ recoilAmount: 3
 powerUse: 1.8
 reloadTime: 100
 shootType: {
+  shootSound: laser
   type: laserBulletType
   damage: 80
   length: 270
