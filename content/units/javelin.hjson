@@ -40,8 +40,8 @@ weapons: [
          inaccuracy: 100
          width: 5
          length: 10
-         weaveScale: 3
-         weaveMag: 3
+         weaveScale: 5
+         weaveMag: 5
          damage: 7
          collidesTiles: true
          frontColor: 88A4FFFF
