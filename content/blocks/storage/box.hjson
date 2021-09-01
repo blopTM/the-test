@@ -1,5 +1,5 @@
 type: StorageBlock
-name: box
+name: Crate
 size: 1
 itemCapacity: 80
 health: 100
