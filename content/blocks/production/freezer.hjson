@@ -8,7 +8,7 @@ hasItems: true
 hasLiquid: true
 hasPower: true
 itemCapacity: 10
-liquidCapacity: 1
+liquidCapacity: 10
 requirements: [
   lead/30
   metaglass/35
