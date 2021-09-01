@@ -1,4 +1,4 @@
-type: LiquidConverter
+type: GenericCrafter
 solid: true
 name: Freezer
 description: oice
@@ -17,8 +17,8 @@ requirements: [
 consumes: {
    power: 1
       liquid: {
-      liquid: water
-      amount: 0.2
+         liquid: water
+         amount: 0.2
   }
 }
 outputItem: ice/2
