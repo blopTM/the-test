@@ -1,22 +1,22 @@
 type: PowerTurret
+name: Beacon
+description: laser
 health: 720
-reloadTime: 50
-shootCone: 0
 size: 3
-shots: 1
+range: 270
+recoilAmount: 3
 powerUse: 1.8
+reloadTime: 100
 shootType: {
-   type: LaserBulletType
-   length: 88
-   width: 16
-   damage: 40
+  type: laserBulletType
+  damage: 80
+  length: 270
 }
-requirements: [
-   copper/100
-   lead/120
-   silicon/80
-   titanium/90
-   plastanium/80
+ requirements: [
+  silicon/120
+  titanium/100
+  plastanium/50
+  copper/120
 ]
-category: turret
 research: lancer
+category: turret
