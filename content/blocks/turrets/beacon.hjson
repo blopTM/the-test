@@ -4,9 +4,7 @@ reloadTime: 50
 shootCone: 0
 size: 3
 shots: 1
-consumes: {
-   power: 1.8
-}
+powerUse: 1.8
 shootType: {
    type: LaserBulletType
    length: 88
