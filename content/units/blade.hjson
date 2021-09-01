@@ -1,6 +1,6 @@
 type: mech
-name: blade
-localizedName: blade
+name: Blade
+localizedName: Blade
 description: the
 isCounted: true
 itemCapacity: 50
