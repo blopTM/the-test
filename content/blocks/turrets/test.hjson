@@ -15,13 +15,15 @@ alternate: true
 inaccuracy: 16
 ammoTypes: {
   copper: {
+    width: 20
+    length: 20
+    height: 20
     damage: 8
-    speed: 5
-    lifetime: 50
+    speed: 2
+    lifetime: 80
     fragBullet: {
             type: ShrapnelBulletType
-            bulletSprite: shell
-            length: 300
+            length: 80
             width: 50
             speed: 0
             hitEffect: hitLancer
