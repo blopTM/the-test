@@ -1,6 +1,6 @@
 type: flying
-name: glaive
-localizedName: glaive
+name: Glaive
+localizedName: Glaive
 flying: true
 controller: FlyingAI
 circleTarget: true
