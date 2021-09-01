@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: furnace
+name: Furnace
 description: upraded kiln.
 health: 340
 size: 3
