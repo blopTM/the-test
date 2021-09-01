@@ -1,6 +1,6 @@
 type: LiquidConverter
 solid: true
-name: freezer
+name: Freezer
 description: oice
 health: 70
 size: 2
