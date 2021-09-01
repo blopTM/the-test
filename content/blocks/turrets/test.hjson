@@ -3,7 +3,7 @@ name: test
 size: 4
 health: 100
 range: 250
-targetGround: false
+targetGround: true
 targetAir: true
 shots: 3
 spread: 20
@@ -13,14 +13,15 @@ burstSpacing: 30
 recoilAmount: 5
 alternate: true
 inaccuracy: 16
+shootSound: bigShot
 ammoTypes: {
   copper: {
     width: 20
     length: 20
     height: 20
-    damage: 8
+    damage: 100
     speed: 2
-    lifetime: 80
+    lifetime: 90
     fragBullet: {
             type: ShrapnelBulletType
             length: 80
