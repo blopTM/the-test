@@ -31,3 +31,4 @@ ammoTypes: {
 requirements: [
   copper/1
 ]
+category: turrets
