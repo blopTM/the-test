@@ -36,13 +36,14 @@ weapons: [
          type: BasicBulletType
          width: 10
          length: 20
+         height: 20
          frontColor: FFA665FF
          backColor: E7885CFF
-         homingPower: 0.3
+         homingPower: 0
          status: burning
          statusDuration: 90
-         speed: 2.8
-         lifetime: 42
+         speed: 3
+         lifetime: 100
       }
    }
 ]
