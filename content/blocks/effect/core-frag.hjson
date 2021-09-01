@@ -1,4 +1,5 @@
 Type: CoreBlock
+name: Core Frag
 health: 2000
 itemCapacity: 1000
 size: 2
