@@ -16,8 +16,15 @@ inaccuracy: 16
 ammoTypes: {
   copper: {
     damage: 8
-    speed: 5.5
-    lifetime: 40
+    speed: 5
+    lifetime: 50
+    fragBullet: {
+            type: ShrapnelBulletType
+            bulletSprite: shell
+            length: 300
+            width: 50
+            speed: 0
+            hitEffect: hitLancer
 requirements: [
   copper/1
 ]
