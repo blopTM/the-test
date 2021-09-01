@@ -1,1 +1,23 @@
-
+type: ItemTurret
+name: test
+size: 4
+health: 100
+range: 250
+targetGround: false
+targetAir: true
+shots: 4
+spread: 20
+rotateSpeed: 15
+reloadTime: 18
+burstSpacing: 30
+recoilAmount: 5
+alternate: true
+inaccuracy: 16
+ammoTypes: {
+  copper: {
+    damage: 8
+    speed: 5.5
+    lifetime: 40
+requirements: [
+  copper/1
+]
