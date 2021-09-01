@@ -7,11 +7,12 @@ range: 270
 recoilAmount: 3
 powerUse: 1.8
 reloadTime: 100
+shootSound: laser
 shootType: {
   shootSound: laser
   type: laserBulletType
-  damage: 80
-  length: 270
+  damage: 200
+  length: 250
 }
  requirements: [
   silicon/120
