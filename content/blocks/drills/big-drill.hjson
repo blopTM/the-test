@@ -1,5 +1,5 @@
 type: Drill
-name: big drill
+name: Hammer Drill
 description: the most powerful drill.
 drawRim: true
 hasItems: true
