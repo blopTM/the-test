@@ -25,6 +25,7 @@ ammoTypes: {
             width: 50
             speed: 0
             hitEffect: hitLancer
+      }
    }
 }
 requirements: [
