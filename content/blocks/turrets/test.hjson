@@ -1,7 +1,7 @@
 type: ItemTurret
 name: test
 size: 4
-health: 100
+health: 3000
 range: 250
 targetGround: true
 targetAir: true
