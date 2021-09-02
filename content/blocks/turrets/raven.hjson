@@ -29,6 +29,7 @@ ammoTypes: {
    silicon: {
       type: ArtilleryBulletType
        damage: 26
+       homingPower: 0.4
        splashDamage: 30
        splashDamageRadius: 24
        speed: 3.4
