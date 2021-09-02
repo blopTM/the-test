@@ -39,7 +39,7 @@ ammoTypes: {
        hitShake: 1.5
        despawnEffect: blastExplosion
    }
-{
+   }
   pyratite: artilleryIncendiary
   blast-compound: artilleryExplosive
 }
