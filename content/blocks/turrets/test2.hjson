@@ -1,7 +1,7 @@
 type: itemTurret
 size: 2
 health: 300
-range: 32
+range: 100
 inaccuracy: 5
 shots: 2
 ammoTypes: {
