@@ -12,6 +12,8 @@ shootSound: laser
 y: 0
 shootType: {
   shootSound: laser
+  chargeEffect: lancerLaserCharge
+  chargeBeginEffect: lancerLaserChargeBegin
   type: laserBulletType
   damage: 200
   length: 210
