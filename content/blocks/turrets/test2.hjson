@@ -5,5 +5,18 @@ range: 32
 inaccuracy: 5
 shots: 2
 ammoTypes: {
-  copper: {
+   copper: {
+      bulletSprite: shell
+      collidesTiles: false
+      collides: false
+      collidesAir: false
+      scaleVelocity: true
+      hitShake: 1
+      hitSound: explosion
+      shootEffect: shootBig
+      trailEffect: artilleryTrail
+      speed: 1
+      lifetime: 100
+   }
+}
 category: turret
