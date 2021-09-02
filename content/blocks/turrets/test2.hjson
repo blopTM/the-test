@@ -4,5 +4,6 @@ health: 300
 range: 32
 inaccuracy: 5
 shots: 2
-
+ammoTypes: {
+  copper: {
 category: turret
