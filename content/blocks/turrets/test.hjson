@@ -27,6 +27,7 @@ ammoTypes: {
     fragBullet: {
             type: ShrapnelBulletType
             hitSound: shotgun
+            despawnSound: shotgun
             damage: 100
             length: 80
             width: 50
