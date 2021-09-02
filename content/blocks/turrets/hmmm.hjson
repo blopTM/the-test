@@ -1,25 +1,39 @@
 type: ItemTurret
-name: the
+name: Raven
 size: 2
-health: 300
-range: 100
+targetAir: false
+range: 240
+health: 450
 inaccuracy: 5
+reloadTime: 70
+recoilAmount: 3
+velocityInaccuracy: 0.1
 shots: 2
+shootEffect: shootBig
+smokeEffect: shootBigSmoke
 shootSound: artillery
+shootShake: 1
 ammoTypes: {
-   copper: {
-      type: ArtilleryBulletType
-      bulletSprite: shell
-      collidesTiles: false
-      collides: false
-      collidesAir: false
-      scaleVelocity: true
-      hitShake: 1
-      hitSound: explosion
-      shootEffect: shootBig
-      trailEffect: artilleryTrail
-      speed: 1
-      lifetime: 100
-   }
+  graphite: {
+    type: ArtilleryBulletType
+    damage: 30
+    splashDamage: 33
+    splashDamageRadius: 28
+    speed: 3
+    lifetime: 80
+    width: 15
+    height: 17
+    hitShake: 1.5
+    frontColor: fd8e8e
+    backColor: ad4244
+    despawnEffect: blastExplosion
+  }
+  pyratite: artilleryIncendiary
+  blast-compound: artilleryExplosive
 }
 category: turret
+research: hail
+requirements: [
+  copper/70
+  graphite/65
+]
