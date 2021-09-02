@@ -31,6 +31,7 @@ ammoTypes: {
     shootSound: shootSnap
     smokeEffect: shootSmallSmoke
     hitEffect: flakExplosion
+    splashDamage: 35
   }
   lead: {
     damage: 9
@@ -44,6 +45,7 @@ ammoTypes: {
     shootSound: shootSnap
     smokeEffect: shootSmallSmoke
     hitEffect: flakExplosion
+    splashDamage: 37
   }
   metaglass: {
     damage: 10
@@ -65,7 +67,7 @@ ammoTypes: {
             speed: 3.5
             collidesTiles: false
             splashDamageRadius: 32
-            splashDamage: 5
+            splashDamage: 37
     }
   }
 }
