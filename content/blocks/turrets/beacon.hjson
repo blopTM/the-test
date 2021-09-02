@@ -1,4 +1,5 @@
 type: PowerTurret
+description: better lancer i guess? (hlep how do i do charge effect)
 name: Beacon
 description: laser
 health: 720
