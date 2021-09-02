@@ -14,6 +14,7 @@ burstSpacing: 30
 recoilAmount: 5
 alternate: true
 inaccuracy: 16
+xRand: 3
 ammoTypes: {
   scrap: {
     damage: 8
