@@ -1,4 +1,5 @@
 type: ItemTurret
+description: although it has the same range as hail it have more firepower (actually i might consider buffing the range le troll)
 name: Raven
 size: 2
 targetAir: false
