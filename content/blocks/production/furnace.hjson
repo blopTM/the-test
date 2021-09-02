@@ -16,13 +16,13 @@ consumes: {
      power: 1.5
      items: {
       items: [
-     sand/10
-     lead/10
+     sand/8
+     lead/8
      pyratite/1
     ]
   }
 }
-outputItem: metaglass/10
-craftTime: 60
+outputItem: metaglass/7
+craftTime: 70
 category: crafting
 research: kiln
