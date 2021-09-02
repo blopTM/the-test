@@ -8,7 +8,7 @@ recoilAmount: 3
 powerUse: 2.6
 reloadTime: 100
 shootSound: laser
-y: 1
+y: 0
 shootType: {
   shootSound: laser
   type: laserBulletType
