@@ -26,7 +26,7 @@ ammoTypes: {
     lifetime: 90
     fragBullet: {
             type: ShrapnelBulletType
-            shootSound: shotgun
+            hitSound: shotgun
             damage: 100
             length: 80
             width: 50
