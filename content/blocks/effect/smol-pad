@@ -15,4 +15,3 @@ requirements: [
 category: effect
 buildVisibility: campaignOnly
 research: router
-
