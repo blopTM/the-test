@@ -3,9 +3,9 @@ name: Beacon
 description: laser
 health: 720
 size: 3
-range: 250
+range: 200
 recoilAmount: 3
-powerUse: 1.8
+powerUse: 2.6
 reloadTime: 100
 shootSound: laser
 y: 1
@@ -13,7 +13,7 @@ shootType: {
   shootSound: laser
   type: laserBulletType
   damage: 200
-  length: 250
+  length: 210
 }
  requirements: [
   silicon/120
