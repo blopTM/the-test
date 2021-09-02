@@ -1,4 +1,4 @@
-type: itemTurret
+type: ItemTurret
 name: the
 size: 2
 health: 300
