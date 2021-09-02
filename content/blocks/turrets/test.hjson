@@ -8,7 +8,7 @@ targetAir: true
 shots: 3
 spread: 20
 rotateSpeed: 15
-reloadTime: 80
+reloadTime: 200
 burstSpacing: 30
 recoilAmount: 5
 alternate: true
