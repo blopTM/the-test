@@ -13,7 +13,7 @@ burstSpacing: 30
 recoilAmount: 5
 alternate: true
 inaccuracy: 16
-shootSound: bigShot
+shootSound: shootBig
 frontColor: BF92F9FF
 backColor: 665C9FFF
 ammoTypes: {
@@ -21,11 +21,13 @@ ammoTypes: {
     width: 20
     length: 20
     height: 20
-    damage: 100
+    damage: 60
     speed: 1.8
     lifetime: 90
     fragBullet: {
             type: ShrapnelBulletType
+            shootSound: shotgun
+            damage: 100
             length: 80
             width: 50
             speed: 0
