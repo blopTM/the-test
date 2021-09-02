@@ -5,8 +5,10 @@ health: 300
 range: 100
 inaccuracy: 5
 shots: 2
+shootSound: artillery
 ammoTypes: {
    copper: {
+      type: ArtilleryBulletType
       bulletSprite: shell
       collidesTiles: false
       collides: false
