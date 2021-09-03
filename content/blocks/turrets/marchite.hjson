@@ -28,11 +28,11 @@ ammoTypes: {
     lifetime: 90
     fragBullet: {
             type: ShrapnelBulletType
+            fragBullets: 8
             hitSound: shotgun
             despawnSound: shotgun
             damage: 100
             spread: 45
-            shots: 8
             spacing: 5
             length: 80
             width: 50
