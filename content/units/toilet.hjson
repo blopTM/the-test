@@ -17,6 +17,7 @@ abilities: [
       region: blop-supremacy-poop
       colorFrom: fffffff25
       colorTo: ffffff00
-  }
+      }
+   }
 ]
 
