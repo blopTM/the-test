@@ -1,1 +1,15 @@
-
+type: PowerTurret
+health: 700
+size: 2
+range: 200
+recoilAmount: 1
+powerUse: 2.5
+reloadTime: 50
+shootType: {
+   type: BasicBulletType
+   sprite: blop-supremacy-point
+   damage: 1000
+   speed: 3
+   lifetime: 180
+}
+category: turret
