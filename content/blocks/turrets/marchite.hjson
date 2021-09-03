@@ -32,6 +32,8 @@ ammoTypes: {
             hitSound: shotgun
             despawnSound: shotgun
             damage: 100
+            spread: 45
+            shots: 8
             length: 80
             width: 50
             speed: 0
