@@ -13,7 +13,10 @@ shootType: {
    width: 0
    length: 0
    height: 0
-      fragBullet
+      fragBullet: {
+         sprite: blop-supremacy-point
+         damage: 1000
+         spread: 45
 }
 requirements: [
   copper/1
