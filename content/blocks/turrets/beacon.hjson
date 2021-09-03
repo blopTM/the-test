@@ -9,6 +9,8 @@ recoilAmount: 3
 powerUse: 2.6
 reloadTime: 100
 shootSound: laser
+chargeTime: 40
+chargeMaxDelay: 30
 chargeEffect: lancerLaserCharge
 chargeBeginEffect: lancerLaserChargeBegin
 shootY: 5
