@@ -8,14 +8,16 @@ reloadTime: 10
 shootType: {
    type: ArtilleryBulletType
       damage: 0
-      speed: 3
+      speed: 1000
       lifetime: 80
-      width: 15
-      height: 17
+      width: 0.1
+      height: 0.1
+      shootSound: none
+      shootEffect: none
       fragBullet: {
          sprite: blop-supremacy-point
-         length: 30
-         width: 28
+         length: 40
+         width: 10
          fragBullets: 8
          damage: 1000
          spread: 45
