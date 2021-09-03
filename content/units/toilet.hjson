@@ -16,7 +16,7 @@ abilities: [
       sizeFrom: 6
       sizeTo: 6
       length: 0.01
-      lifetime: 100
+      lifetime: 1000
       region: blop-supremacy-poop
       colorFrom: fffffff25
       colorTo: ffffff00
