@@ -15,6 +15,7 @@ shootType: {
    height: 0
       fragBullet: {
          sprite: blop-supremacy-point
+         fragBullets: 8
          damage: 1000
          spread: 45
 }
