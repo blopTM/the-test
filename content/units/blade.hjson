@@ -36,7 +36,7 @@ weapons: [
    mirror: true
    rotate: false
    reload: 25
-   x: 4.75
+   x: 6.50
    y: 0
    shots: 1
    inaccuracy: 1
