@@ -15,8 +15,7 @@ recoilAmount: 5
 alternate: true
 inaccuracy: 16
 shootSound: shootBig
-yRand: 4
-xRand: 10
+yRand: -4
 ammoTypes: {
   copper: {
     width: 30
