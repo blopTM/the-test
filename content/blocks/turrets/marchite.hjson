@@ -16,7 +16,6 @@ alternate: true
 inaccuracy: 16
 shootSound: shootBig
 yRand: 4
-y: 4
 ammoTypes: {
   copper: {
     width: 30
