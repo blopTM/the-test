@@ -10,8 +10,8 @@ shootType: {
    sprite: blop-supremacy-point
    speed: 1000
    lifetime: 1000
-   width: 0
-   length: 0
+   width: 0.1
+   length: 0.1
    height: 0
       fragBullet: {
          sprite: blop-supremacy-point
