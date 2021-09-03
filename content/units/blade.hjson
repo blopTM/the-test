@@ -11,7 +11,7 @@ controller: GroundAI
 canBoost: true
 weapons: [
    {
-      name: blade-weapon-mount
+      name: small-mount-weapon
       top: true
       mirror: true
       rotate: true
