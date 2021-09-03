@@ -1,4 +1,6 @@
 health: 100
+name: yes
+description: yes
 speed: 3
 abilities: [
  {
