@@ -18,8 +18,8 @@ shootType: {
   chargeBeginEffect: lancerLaserChargeBegin
   type: laserBulletType
   damage: 200
-  length: -10
-  baseLength: 100
+  length: 100
+  baseLength: -10
 }
  requirements: [
   silicon/120
