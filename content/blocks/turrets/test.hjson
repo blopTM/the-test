@@ -22,6 +22,7 @@ shootType: {
          spread: 45
          speed: 3
          lifetime: 80
+   }
 }
 requirements: [
   copper/1
