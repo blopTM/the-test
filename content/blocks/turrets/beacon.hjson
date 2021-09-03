@@ -11,7 +11,7 @@ reloadTime: 100
 shootSound: laser
 chargeEffect: lancerLaserCharge
 chargeBeginEffect: lancerLaserChargeBegin
-y: 1
+shootY: 5
 shootType: {
   shootSound: laser
   chargeEffect: lancerLaserCharge
@@ -19,7 +19,6 @@ shootType: {
   type: laserBulletType
   damage: 200
   length: 170
-  baseLength: -10
 }
  requirements: [
   silicon/120
