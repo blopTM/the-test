@@ -9,6 +9,8 @@ recoilAmount: 3
 powerUse: 2.6
 reloadTime: 100
 shootSound: laser
+chargeEffect: lancerLaserCharge
+chargeBeginEffect: lancerLaserChargeBegin
 y: 1
 shootType: {
   shootSound: laser
