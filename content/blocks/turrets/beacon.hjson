@@ -19,7 +19,7 @@ shootType: {
   type: laserBulletType
   damage: 200
   length: -10
-  baseLength: 1
+  baseLength: 100
 }
  requirements: [
   silicon/120
