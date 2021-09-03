@@ -12,4 +12,7 @@ shootType: {
    speed: 3
    lifetime: 180
 }
+requirements: [
+  copper/1
+  ]
 category: turret
