@@ -19,15 +19,15 @@ shootType: {
    timeDuration: 1200
    powerDamageScl: 3
    damage: 60
-   hitColor: f00000
-   lightColor: f00000
+   hitColor: 84f491
+   lightColor: 84f491
    lightRadius: 70
    clipSize: 250
    shootEffect: hitEmpSpark
    smokeEffect: shootBigSmoke
    lifetime: 60
    sprite: blop-supremacy-gbullet
-   backColor: f00000
+   backColor: 84f491
    frontColor: ffffff
    width: 18
    height: 18
@@ -47,16 +47,22 @@ shootType: {
             type: WaveEffect
             sizeFrom: 80
             sizeTo: 80
+            colorFrom: 84f491
+            colorTo: 84f491
          }
          {
             type: WaveEffect
             sizeFrom: 90
             sizeTo: 80
+            colorFrom: 84f491
+            colorTo: 84f491
          }
          {
             type: WaveEffect
             sizeFrom: 70
             sizeTo: 80
+            colorFrom: 84f491
+            colorTo: 84f491
          }
          {
             type: ParticleEffect
@@ -64,6 +70,8 @@ shootType: {
             sizeTo: 0
             region: blop-supremacy-geffect
             particles: 8
+            colorFrom: 84f491
+            colorTo: 84f491
          }
       ]
    }
