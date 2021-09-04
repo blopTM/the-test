@@ -68,6 +68,7 @@ ammoTypes: {
             collidesTiles: false
             splashDamageRadius: 32
             splashDamage: 37
+            despawnEffect: none
     }
   }
 }
