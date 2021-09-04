@@ -40,7 +40,22 @@ shootType: {
    trailRotation: true
    status: electrified
    hitSound: plasmaboom
-}
+   despawnEffect: {
+      type: MultiEffect
+      effects: [
+         {
+            type: WaveEffect
+            sizeFrom: 80
+            sizeTo: 80
+         }
+         {
+            type: WaveEffect
+            sizeFrom: 85
+            sizeTo: 80
+          }
+       ]
+    }
+ }
  requirements: [
   copper/1
 ]
