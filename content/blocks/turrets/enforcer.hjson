@@ -21,7 +21,7 @@ shootType: {
    hitColor: f00000
    lightColor: f00000
    lightRadius: 70
-   clipSize: 250
+   clipSize: 12
    shootEffect: hitEmpSpark
    smokeEffect: shootBigSmoke
    lifetime: 60
