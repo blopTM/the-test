@@ -10,6 +10,7 @@ chargeTime: 40
 chargeMaxDelay: 30
 shootType: {
    type: EmpBulletType
+   spin: 2
    scaleVelocity: true
    lightOpacity: 0.7
    unitDamageScl: 0.8
@@ -28,8 +29,8 @@ shootType: {
    sprite: blop-supremacy-gbullet
    backColor: f00000
    frontColor: ffffff
-   width: 0.12
-   height: 0.12
+   width: 12
+   height: 12
    speed: 5
    splashDamage: 70
    splashDamageRadius: 80
