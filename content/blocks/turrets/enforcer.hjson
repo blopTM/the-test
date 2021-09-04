@@ -34,6 +34,7 @@ shootType: {
    speed: 5
    trailLength: 12
    trailWidth: 6
+   trailColor: 84f491
    splashDamage: 70
    splashDamageRadius: 80
    hitShake: 4
