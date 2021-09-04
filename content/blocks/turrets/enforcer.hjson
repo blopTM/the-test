@@ -1,5 +1,6 @@
 type: PowerTurret
 name: Enforcer
+description: shoots emp bullets, credits to antlrr for making this code's turret
 health: 720
 size: 3
 range: 200
