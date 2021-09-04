@@ -10,7 +10,6 @@ chargeTime: 40
 chargeMaxDelay: 30
 shootType: {
    type: EmpBulletType
-   float: 100
    scaleVelocity: true
    lightOpacity: 0.7
    unitDamageScl: 0.8
@@ -37,7 +36,7 @@ shootType: {
    trailColor: f00000
    trailInterval: 3
    splashDamage: 70
-   splashDamageRadius: 100
+   splashDamageRadius: 80
    hitShake: 4
    trailRotation: true
    status: electrified
