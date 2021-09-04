@@ -32,7 +32,7 @@ shootType: {
    height: 0.12
    speed: 5
    trailLength: 20
-   trailWidth: 6
+   trailWidth: 0.6
    trailColor: f00000
    trailInterval: 3
    splashDamage: 70
