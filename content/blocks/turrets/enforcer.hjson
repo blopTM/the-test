@@ -21,17 +21,19 @@ shootType: {
    damage: 60
    hitColor: f00000
    lightColor: f00000
-   lightRadius: 0
-   clipSize: 0
+   lightRadius: 70
+   clipSize: 250
    shootEffect: hitEmpSpark
    smokeEffect: shootBigSmoke
    lifetime: 60
    sprite: blop-supremacy-gbullet
    backColor: f00000
    frontColor: ffffff
-   width: 12
-   height: 12
+   width: 18
+   height: 18
    speed: 5
+   trailLength: 12
+   trailWidth: 6
    splashDamage: 70
    splashDamageRadius: 80
    hitShake: 4
