@@ -50,12 +50,24 @@ shootType: {
          }
          {
             type: WaveEffect
-            sizeFrom: 85
+            sizeFrom: 90
             sizeTo: 80
-          }
-       ]
-    }
- }
+         }
+         {
+            type: WaveEffect
+            sizeFrom: 70
+            sizeTo: 80
+         }
+         {
+            type: ParticleEffect
+            sizeFrom: 6
+            sizeTo: 0
+            region: blop-supremacy-geffect
+            particles: 8
+         }
+      ]
+   }
+}
  requirements: [
   copper/1
 ]
