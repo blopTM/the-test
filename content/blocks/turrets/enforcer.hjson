@@ -28,8 +28,8 @@ shootType: {
    sprite: circle-bullet
    backColor: f00000
    frontColor: ffffff
-   width: 12
-   height: 12
+   width: 0.12
+   height: 0.12
    speed: 5
    trailLength: 20
    trailWidth: 6
