@@ -19,7 +19,7 @@ shootType: {
    powerDamageScl: 3
    damage: 60
    hitColor: f00000
-   lightColor: f00000
+   lightColor: f0000000
    lightRadius: 70
    clipSize: 12
    shootEffect: hitEmpSpark
