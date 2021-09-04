@@ -25,7 +25,7 @@ shootType: {
    shootEffect: hitEmpSpark
    smokeEffect: shootBigSmoke
    lifetime: 60
-   sprite: circle-bullet
+   sprite: blop-supremacy-gbullet
    backColor: f00000
    frontColor: ffffff
    width: 0.12
