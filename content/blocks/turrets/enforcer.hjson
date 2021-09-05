@@ -3,16 +3,16 @@ name: Enforcer
 description: shoots emp bullets, credits to antlrr for making this code's turret
 health: 720
 reloadTime: 110
+shootSound: laser
 size: 3
 range: 200
 recoilAmount: 3
 powerUse: 2.6
-reloadTime: 100
+reloadTime: 160
 chargeTime: 40
 chargeMaxDelay: 30
 shootType: {
    type: EmpBulletType
-   maxTargets: 10
    spin: 2
    scaleVelocity: true
    lightOpacity: 0.7
@@ -45,6 +45,42 @@ shootType: {
    status: electrified
    hitSound: plasmaboom
    despawnEffect: {
+      type: MultiEffect
+      effects: [
+         {
+            type: WaveEffect
+            sizeFrom: 80
+            sizeTo: 80
+            colorFrom: 84f491
+            colorTo: 84f491
+         }
+         {
+            type: WaveEffect
+            sizeFrom: 90
+            sizeTo: 80
+            colorFrom: 84f491
+            colorTo: 84f491
+         }
+         {
+            type: WaveEffect
+            sizeFrom: 70
+            sizeTo: 80
+            colorFrom: 84f491
+            colorTo: 84f491
+         }
+         {
+            type: ParticleEffect
+            sizeFrom: 6
+            sizeTo: 0
+            region: blop-supremacy-geffect
+            particles: 8
+            colorFrom: 84f491
+            colorTo: 84f491
+         }
+      ]
+   }
+}
+hitEffect: {
       type: MultiEffect
       effects: [
          {
