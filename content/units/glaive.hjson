@@ -25,7 +25,7 @@ weapons: [
       mirror: true
       rotate: false
       alternate: true
-      reload: 40
+      reload: 30
       x: 0
       y: 0
       shots: 1
