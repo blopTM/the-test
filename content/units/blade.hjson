@@ -12,7 +12,7 @@ canBoost: true
 weapons: [
    {
       name: small-mount-weapon
-      top: true
+      top: false
       mirror: true
       rotate: true
       alternate: true
@@ -32,7 +32,7 @@ weapons: [
    }
 {
    name: blade-weapon
-   top: true
+   top: false
    mirror: true
    rotate: false
    reload: 25
