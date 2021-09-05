@@ -12,6 +12,7 @@ chargeTime: 40
 chargeMaxDelay: 30
 shootType: {
    type: EmpBulletType
+   maxTargets: 10
    spin: 2
    scaleVelocity: true
    lightOpacity: 0.7
