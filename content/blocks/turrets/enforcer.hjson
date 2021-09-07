@@ -115,7 +115,6 @@ hitEffect: {
          }
       ]
    }
-}
  requirements: [
   copper/1
 ]
