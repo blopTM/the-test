@@ -18,8 +18,11 @@ shootSound: shootBig
 ammoTypes: {
   copper: {
     bulletSprite: fire
-    weaveScale: 8
-    weaveMag: 12
+    weaveScale: 4
+    weaveMag: 7
+    pierce: true
+    pierceCap: 10
+    homingPower: 0.8
     width: 10
     length: 30
     height: 10
