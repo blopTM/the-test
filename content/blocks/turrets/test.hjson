@@ -18,15 +18,13 @@ shootSound: shootBig
 ammoTypes: {
   copper: {
     bulletSprite: fire
-    weaveScale: 18
-    weaveMag: 10
-    width: 30
+    weaveScale: 8
+    weaveMag: 12
+    width: 10
     length: 30
-    height: 30
-    frontColor: BF92F9FF
-    backColor: 665C9FFF
+    height: 10
     damage: 80
-    speed: 2
+    speed: 3
     lifetime: 90
     fragBullet: {
             type: ShrapnelBulletType
