@@ -1,4 +1,5 @@
 type: ShallowLiquid
+variants: 1
 liquidDrop: water
 liquidMultiplier: 0.1
 status: wet
@@ -7,5 +8,3 @@ cacheLayer: water
 emitLight: false
 lightRadius: 0
 lightColor: e8682720
-attributes: {
-   }
