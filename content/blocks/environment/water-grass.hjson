@@ -1,5 +1,5 @@
 type: ShallowLiquid
-variants: 1
+variants: 3
 liquidDrop: water
 liquidMultiplier: 0.1
 status: wet
