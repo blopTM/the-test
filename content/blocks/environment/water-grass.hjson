@@ -8,3 +8,6 @@ cacheLayer: water
 emitLight: false
 lightRadius: 0
 lightColor: e8682720
+attributes: {
+   water: 0.1
+}
